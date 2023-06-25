@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 F0rtuit0us-Trav3l3r
+Copyright (c) 2023 Fortuitous-Traveler
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
